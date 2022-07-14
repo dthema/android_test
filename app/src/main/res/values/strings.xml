@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sirius</string>
+    <string name="review_rating"><![CDATA[Reviews & Rating]]></string>
+    <string name="install">Install</string>
 </resources>

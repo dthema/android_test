@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="grey">#919191</color>
+    <color name="gold">#E4D42B</color>
+
+    <color name="titleText">@color/black</color>
+    <color name="subText">#B8B8B8</color>
+    <color name="lightText">#D1D1D1</color>
+    <color name="categoryTextColor">#091774</color>
+    <color name="titleButtonsBackground">#26B5B5B5</color>
+    <color name="titleButtonsIcon">#FFFFFF</color>
 </resources>
